@@ -45,9 +45,11 @@ EOF
         bpfmt
         ckati
         ckati_stamp_dump
+        flex
         makeparallel
         ninja
         soong_zip
+        xz
         zip2zip
         zipalign
         ziptime
